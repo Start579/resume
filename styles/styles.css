@@ -1,0 +1,69 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+/* main styles */
+.main {
+display: flex;
+flex-direction: row-reverse;
+background-color: #1E2939;
+width: 1200px;
+margin: 0 auto;
+}
+.main-content {
+    background-color: #FFFFFF;
+}
+/* about styles  */
+.about {
+    background-color:bisque
+}
+/* project styles */
+.projects {
+    background-color: chocolate;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    margin-right: 90px;
+
+    /* margin: 100px 90px 300px 60px;
+    margin: 50px;
+    margin: 100px 50px; */
+}
+/* project-title */
+.project-title {
+    font-size: 45px;
+    color: darkgray;
+}
+/* work styles */
+.work {
+    background-color: cyan;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
+
+    /* padding: 100px 40px 50px 20px;
+    padding: 50px;
+    padding: 50px 100px; */
+}
+/* education styles */
+.education {
+    background-color: darkblue;
+}
+.sidebar {
+    margin: 183px 83px;
+    color: #F5F7FA;
+}
+.contacts {
+    color: #F5F7FA;
+    margin-left: auto;
+    margin-bottom: 83px;
+}
+.techskills {
+    color: #F5F7FA;
+    padding-left: auto;
+
+}
+.softsckills {
+    color: #F5F7FA;
+    margin-top: 10px;
+}
